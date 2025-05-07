@@ -53,3 +53,5 @@ Currently exploring the wild world of web dev — from HTML & CSS all the way to
 
 > "Learning to code is like learning to ride a bike — you crash a lot, but eventually, you coast."
 
+---
+
