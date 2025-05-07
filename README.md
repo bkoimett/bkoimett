@@ -1,3 +1,6 @@
+<img src="bkoimett.png" alt="Witness Greatness Banner" width="100%" />
+
+
 ### 👋 Hey there!
 
 I'm **Koimett Benjamin**, a developer-in-progress based in Kenya 🇰🇪.  
