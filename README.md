@@ -1,4 +1,11 @@
 <img src="bkoimett.png" alt="Witness Greatness Banner" width="100%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bkoimett&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Chirchir-Dan?tab=followers">
+    <img src="https://img.shields.io/github/followers/bkoimett?style=social" alt="Followers" />
+  </a>
+</p>
 
 
 # 👋 Hey there!
