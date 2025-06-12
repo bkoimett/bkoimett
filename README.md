@@ -21,7 +21,7 @@ Currently exploring the wild world of web dev — from HTML & CSS all the way to
 ## 🌱 What I'm Learning
 - Frontend: **HTML, CSS, JavaScript, React**
 - Backend: **Node.js, Express, Go (Golang)**
-- Tools: **Git, VS Code, Postman, Docker,Kubernetics,Kafka,Gin**, and the magical art of Stack Overflow searches
+- Tools: **Git, VS Code, Postman, Docker, Kubernetics, Kafka, Gin**, and the magical art of Stack Overflow searches
 
 ---
 
