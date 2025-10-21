@@ -67,8 +67,8 @@ When I’m not coding, I’m sketching, studying algorithms, or breaking code ju
 | 🌐 Project | 🔧 Stack | 📄 Description |
 |-------------|-----------|----------------|
 | [**🌍 Gaia Watchers (NASA Space Apps Project)**](#) | MERN + Python + NASA APIs | A data-driven dashboard visualizing Earth observation insights, built for sustainability tracking and planetary health awareness
-| [**The Serenity Place (Rehab Platform)**](#) | MERN + Tailwind + Cloud Storage | A full-featured rehabilitation center website with blog, gallery, and admin dashboard. |
-| [**Kijiji Cuisine Blog**](#) | Node.js + MongoDB + EJS | A clean, minimal food blog platform with dynamic posts and image uploads. |
+| [**The Serenity Place (Rehab Platform)**](www.theserenityplace.org) | MERN + Tailwind + Cloud Storage | A full-featured rehabilitation center website with blog, gallery, and admin dashboard. |
+| [**Kijiji Cuisine Blog**](www.kijijicorporatecuisine.co.ke) | Node.js + MongoDB + EJS | A clean, minimal food blog platform with dynamic posts and image uploads. |
 | [**Go REST API**](#) | Go (Gin) + MongoDB | A RESTful API for content management and CRUD learning. |
 | [**Personal Portfolio (In Progress)**](#) | Next.js + Tailwind | A responsive portfolio to showcase projects and blogs. |
 
