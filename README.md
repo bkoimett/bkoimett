@@ -1,4 +1,4 @@
-<img src="bkoimett.png" alt="Koimett Benjamin Banner" width="100%" />
+<img src="bkoimett (1).png" alt="Koimett Benjamin Banner" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bkoimett&color=blueviolet" alt="Profile views" />
@@ -101,5 +101,6 @@ When I’m not coding, I’m sketching, studying algorithms, or breaking code ju
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bkoimett&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkoimett&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bkoimett&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
