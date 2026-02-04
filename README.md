@@ -69,6 +69,7 @@ When I’m not coding, I’m sketching, studying algorithms, or breaking code ju
 | [**🌍 Gaia Watchers (NASA Space Apps Project)**](#) | MERN + Python + NASA APIs | A data-driven dashboard visualizing Earth observation insights, built for sustainability tracking and planetary health awareness
 | [**The Serenity Place (Rehab Platform)**](www.theserenityplace.org) | MERN + Tailwind + Cloud Storage | A full-featured rehabilitation center website with blog, gallery, and admin dashboard. |
 | [**Kijiji Cuisine Blog**](www.kijijicorporatecuisine.co.ke) | Node.js + MongoDB + EJS | A clean, minimal food blog platform with dynamic posts and image uploads. |
+| [**FlashNotes**](https://purple-heyz.netlify.app/) | Node.js + Open Router AI Agent + Go | A user friendly AI Agent that aims to slve the problem of mastery across all disciplines using memory reinforment from Flashcard models. |
 | [**Go REST API**](#) | Go (Gin) + MongoDB | A RESTful API for content management and CRUD learning. |
 | [**Personal Portfolio (In Progress)**](#) | Next.js + Tailwind | A responsive portfolio to showcase projects and blogs. |
 
