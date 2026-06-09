@@ -7,8 +7,7 @@
   </a>
 </p>
 
-# Hi, I'm Benjamin Koimett
-**Full stack developer from Kisumu, Kenya**
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey.+You're+here.;I'm+Benjamin+Koimett;Full+stack+developer+from+Kisumu,+Kenya;Building+web+experiences+that+matter)](https://github.com/bkoimett)
 
 ## What I'm building
 - **FlashNotes** — AI-powered spaced repetition flashcards
@@ -19,7 +18,7 @@
 React / Next.js / Node.js / Express / Go / MongoDB / Docker / Tailwind
 
 ## Currently learning
-Testing, CI/CD, system design, and how to sleep at a reasonable hour
+Testing, CI/CD, system design
 
 ## Find me
 📍 Kisumu, Kenya • 📧 koimettb@gmail.com
