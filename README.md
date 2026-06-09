@@ -26,6 +26,5 @@ Testing, CI/CD, system design
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkoimett&show_icons=true&theme=tokyonight" alt="Stats" />
   <img src="https://streak-stats.demolab.com?user=bkoimett&theme=tokyonight" alt="Streak" />
 </p>
