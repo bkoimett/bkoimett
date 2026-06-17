@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey.+You're+here.;I'm+Benjamin+Koimett;Full+stack+developer+from+Kisumu,+Kenya;Building+web+experiences+that+matter)](https://github.com/bkoimett)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey.+Welcome,+Willkommen,+Karibu+Sana.;I'm+Benjamin+Koimett;Full+stack+developer+from+Kisumu,+Kenya;Building+web+experiences+that+matter)](https://github.com/bkoimett)
 
 ## What I'm building
 - **FlashNotes** — AI-powered spaced repetition flashcards
