@@ -22,6 +22,7 @@ Testing, CI/CD, system design
 
 ## Find me
 📍 Kisumu, Kenya • 📧 koimettb@gmail.com
+https://bkoimett-portofolio.vercel.app/
 
 ---
 
