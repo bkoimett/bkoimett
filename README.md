@@ -1,7 +1,5 @@
 <img src="bkoimett%20(1).png" alt="Benjamin Koimett — Banner" width="100%" />
 
-<h1 align="center">Benjamin Koimett</h1>
-
 <p align="center"><strong>Full-Stack Developer</strong> — React / Node / Go / Python · Kisumu, Kenya · open to remote</p>
 
 <p align="center">
