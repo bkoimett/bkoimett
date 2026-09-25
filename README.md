@@ -48,5 +48,5 @@ Full-stack developer who owns products end-to-end, from architecture and APIs to
 ## Contact
 
 - Portfolio: https://bkoimett-portofolio.vercel.app
-- Email: benkoimet@gmail.com
+- Email: koimettb@gmail.com
 - GitHub: https://github.com/bkoimett
